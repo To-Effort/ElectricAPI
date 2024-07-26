@@ -1,4 +1,4 @@
-🎉系统技术架构：
+系统技术架构：
 
 1、.Net 7 + EF + REST + Vue + Element UI；
 
